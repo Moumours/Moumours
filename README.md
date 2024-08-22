@@ -54,7 +54,7 @@ I'm currently in the final year of my Master's in Computer Science and Software 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Moumours&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moumours&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moumours&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moumours&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Moumours/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Moumours&icon=0&color=11)](https://visitcount.itsvg.in)
