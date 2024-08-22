@@ -3,7 +3,7 @@ Currently in final-year of Computer Science and Software Engineering master’s 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ pierre-albertini-190600174) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-albertini-190600174) 
 
 # 💻 Tech Stack:
 
