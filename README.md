@@ -1,8 +1,20 @@
+<h1 align="center">Hi 👋 I'm Pierre Albertini</h1>
+
 # 💫 About Me:
-Currently in final-year of Computer Science and Software Engineering master’s at ENSISA.
+I'm currently in the final year of my Master's in Computer Science and Software Engineering at ENSISA. Naturally curious and interested in a wide range of subjects, I am still specializing in Data Science and Machine Learning, with a strong focus on Natural Language Processing (NLP).
 
 
-## 🌐 Socials:
+## 🚀 What I'm Up To
+
+- 🤖 Exploring the possibilities of LLMs — [check out ChienGPT!](https://github.com/Moumours/ChienGPT)
+- 💻 Working on exciting new projects
+- 📚 Diving into novels, history, philosophy, theater... anything that sparks my curiosity!
+
+
+<!-- Check out my [coding portfolio!](https://moumours-portfolio.netlify.app/) -->
+
+
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-albertini-190600174) 
 
 # 💻 Tech Stack:
