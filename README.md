@@ -59,6 +59,8 @@ I'm currently in the final year of my Master's in Computer Science and Software 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-%230078D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-%23F0DB4F.svg?style=for-the-badge&logo=uml&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-%234F5B02.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23D83B01.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
 # 📊 GitHub Stats:
